@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" addBOMForNewFiles="with NO BOM">
+    <file url="file://$PROJECT_DIR$/bayes/Datasets/历史/1.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/bayes/Datasets/历史/2.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/bayes/Datasets/历史/3.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/bayes/Datasets/玄幻/1.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/bayes/Datasets/玄幻/2.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/bayes/Datasets/玄幻/3.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/bayes/Datasets/都市/1.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/bayes/Datasets/都市/2.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/bayes/Datasets/都市/3.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/bayes/email/ham/6.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/stop_words.txt" charset="GBK" />
+  </component>
+</project>
